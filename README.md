@@ -41,6 +41,6 @@ This project is a simple, file-based RESTful API built with Node.js and Express 
 ## For Run CSV Import Script
 - node import.js todos.csv OR node import.js
 
-
-
+## NOTE ##
+For API request/response sample please check **api-examples.http** file.
 
