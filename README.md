@@ -30,7 +30,7 @@ This project is a simple, file-based RESTful API built with Node.js and Express 
 
 ## For Project Installation
 
-- git clone https://github.com/your-username/TODO-PROJECT.git
+- git clone https://github.com/shubhamabad/TODO-PROJECT.git
 - cd TODO-PROJECT
 - npm install or npm i
 
