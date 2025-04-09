@@ -20,7 +20,7 @@ This project is a simple, file-based RESTful API built with Node.js and Express 
   - Load todos from a CSV file
   - Normalize data (e.g., remove empty titles)
   - Simulate API call by printing formatted JSON
-  - CLI flag to load custom input files: `node import.js tasks.csv`
+  - CLI flag to load custom input files: `node import.js todos.csv`
 
 - **Tech Stack**:
   - Node.js
